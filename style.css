@@ -178,6 +178,8 @@ a{
     }
     .pricing__cards{
         flex-direction: column;
+    }
+    .card{
         margin-top: 2rem;
     }
 
