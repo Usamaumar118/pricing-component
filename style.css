@@ -31,6 +31,10 @@ a{
     text-decoration: none;;
 }
 
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
 .pricing{
     width: 70%;
     margin: 3rem auto;
@@ -174,6 +178,7 @@ a{
     }
     .pricing__cards{
         flex-direction: column;
+        margin-top: 2rem;
     }
 
 }
